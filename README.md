@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+这里你可以了解我:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
