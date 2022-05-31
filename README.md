@@ -13,7 +13,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; PHP  
+- 💻 &nbsp; Node 
 - 🌐 &nbsp; HTML | CSS | JavaScript | LayUI | Vue
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp;Visual Studio code | Git
