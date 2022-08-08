@@ -9,7 +9,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Node 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Vue
+- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript |Vue
 
 <h3>🌱 work </h3>
 
