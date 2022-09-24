@@ -1,21 +1,31 @@
-<h2> Hey there! I'm zhaoyuanda. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/zhaoyuanmeng/picture/blob/master/gif3.gif" width="500"/>
-
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🔭 喜欢看电影
-- 🤔 喜欢钓鱼.
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Node 
-- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript |Vue
-
-<h3>🌱 work </h3>
-
-- 💻 &nbsp; 石家庄
-
-<img  src="https://github-readme-stats.vercel.app/api?username=zhaoyuanmeng&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="zyd's Github Stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoyuanmeng&layout=compact&text_color=daf7dc&bg_color=151515" >
 
 
+### Hi there, I am Zhao Yuan Da👋
 
+> A Front end developer from **HangZhou, China**.
+
+### 🏗️ Learning：
+
+<code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
+<code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
+
+### 📫 Reach me:
+
+- **QQ** : 1426593075
+- **WeChat** : 15731779921
+- **Phone** : 15731779921
+- **E-mail** : 1426593075@qq.com
+
+### 🏠 Blog：
+
+- **[https://zhaoyuanmeng.github.io/)**
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=li-jia-nan&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-jia-nan&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+### 📈 Activity Graph：
+
+![](https://activity-graph.herokuapp.com/graph?username=zhaoyuanmeng&theme=react-dark)
