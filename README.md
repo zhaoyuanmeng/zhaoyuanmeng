@@ -2,7 +2,7 @@
 
 ### Hi there, I am Zhao Yuan Da👋
 
-> A Front end developer from **HangZhou, China**.
+> A Front end developer from **ShiJiaZhuang, China**.
 
 ### 🏗️ Learning：
 
