@@ -28,4 +28,4 @@
 
 ### 📈 Activity Graph：
 
-![](https://activity-graph.herokuapp.com/graph?username=zhaoyuanmeng&theme=react-dark)
+<img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=zhaoyuanmeng&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
